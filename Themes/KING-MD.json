@@ -1,18 +1,18 @@
 {
   "__JSON__": true,
-  "AUTHOR": "wasi",
+  "AUTHOR": "whatsapp-bot",
   "LANGUAGE": "English",
   "LANGCODE": "en",
   "STRINGS": {
       "updater": {
-          "UPDATE": "*Yᴏᴜʀ ʙᴏᴛᴛᴏ ɪꜱ ᴀʟʀᴇᴀᴅʏ ᴏɴ ʟᴀᴛᴇꜱᴛ ᴠᴇʀꜱɪᴏɴ,of wasi tech*",
+          "UPDATE": "*Yᴏᴜʀ ʙᴏᴛᴛᴏ ɪꜱ ᴀʟʀᴇᴀᴅʏ ᴏɴ ʟᴀᴛᴇꜱᴛ ᴠᴇʀꜱɪᴏɴ,of whatsapp-bot*",
           "NEW_UPDATE": "```There is a new update available for the bot!```\n\n*Changes:*\n",
           "UPDATED_LOCAL": "*ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ ᴜᴘᴅᴀᴛᴇᴅ!*"
       },
       "global": {
-          "botName": "Powered BY wasi-tech",
+          "botName": "Powered BY whatsapp-bot",
           "body": "Wʜᴀᴛꜱᴀᴘᴘ-Bᴏᴛ",
-          "greet2" : "wasi-tech",
+          "greet2" : "whatsapp-bot",
           "pic1": "https://telegra.ph/file/75ce4a03603990d1eaa5d.jpg",
           "pic2": "https://telegra.ph/file/75ce4a03603990d1eaa5d.jpg",
           "pic3": "https://telegra.ph/file/75ce4a03603990d1eaa5d.jpg",
@@ -20,7 +20,7 @@
           "pic5": "https://telegra.ph/file/75ce4a03603990d1eaa5d.jpg",
           "pic6": "https://telegra.ph/file/75ce4a03603990d1eaa5d.jpg",
           "pic7": "https://telegra.ph/file/75ce4a03603990d1eaa5d.jpg",
-           "greet" : "WASI TECH",
+           "greet" : "whatsapp-bot",
          "dotbody" : "wasi tech bot alive.",
           "promote": "𝙥𝙡𝙯 𝙜𝙞𝙫𝙚 𝙩𝙝𝙚 𝙖𝙙𝙢𝙞𝙣 𝙧𝙤𝙡𝙚 𝙩𝙤 𝙢𝙮 𝙗𝙤𝙨𝙨",
           "pmallow": "```Hii,This is wasi-tech``` \n```An assistant of My Author.```\n```My Author is busy right now.```\n```Kindly Leave your Message.```\n\n```I will inform him about your message asap......```",
