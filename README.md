@@ -3,7 +3,7 @@
   <a href="https://chat.whatsapp.com/IcqWhTW0vgw4A4N1IPA03J">
     <img alt=Support height="350" src="https://telegra.ph/file/0e3ceca721a6e277dbb61.jpg"> 
     </p>
-<h1 align="center">    WASI-TECH-MULTI-DEVICE (BETA)
+<h1 align="center">    Whatsapp-bot MULTI-DEVICE (BETA)
 </h1>
 <p align="center"> 
   
